@@ -60,6 +60,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Accesing the ticket interface as john assigning it to john, updating sla and adding notes on thread frfom call with the client.
 
-![image](https://github.com/user-attachments/assets/9af004eb-43b1-4865-9af6-96bc5dba3636)
+![image](https://github.com/user-attachments/assets/9af004eb-43b1-4865-9af6-96bc5dba3636) ![image](https://github.com/user-attachments/assets/60f92bb8-eaae-4bc3-a8e9-99ec8a3f5193)
 
 - Updating thread after talking with client, Restart fixed the issue. Setting ticket to resolved.
