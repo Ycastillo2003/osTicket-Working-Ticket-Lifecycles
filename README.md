@@ -35,3 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/f94ba020-1553-41ef-a708-66f6f16eae99)
 
 - Assigning sla plan, Help topic and a team to the ticket.
+
+![image](https://github.com/user-attachments/assets/4718a0a1-a796-4c90-8dd9-6502a1055aca)
+
+- Ticket thread after updating the ticket.
