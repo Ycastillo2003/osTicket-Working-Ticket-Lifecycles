@@ -39,3 +39,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/4718a0a1-a796-4c90-8dd9-6502a1055aca)
 
 - Ticket thread after updating the ticket.
+
+![image](https://github.com/user-attachments/assets/8bbdd102-92fd-45dd-9f6a-484cea6fb7f5)
+
+- Accessing ticket as agent jane doe and assigning it to agent jane doe.
