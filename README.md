@@ -58,4 +58,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 -![image](https://github.com/user-attachments/assets/7596b4fd-18eb-4fbe-8d2d-debb80f7cd31)
 
-- Accesing the ticket interface as john assigning it to john, updating sla and adding notes on the proccess frfom call with the client.
+- Accesing the ticket interface as john assigning it to john, updating sla and adding notes on thread frfom call with the client.
