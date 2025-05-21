@@ -47,3 +47,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/50ab59df-7d95-4157-a651-8c637f14ece5)
 
 - Adressing the possible issues on the ticket thread and rolling back the update for a temporary fix while also upodate the enduser and other the agents on the thread.
+
+![image](https://github.com/user-attachments/assets/afa2ce97-b2ed-4c71-a17e-4648087d8ac5)
+
+- Setting ticket to resolved.
