@@ -55,3 +55,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/dd9802b2-6d34-48d7-bec3-8d2b2c36a6d1)
 
 - Opening another Ticket as enduser.
+
+-![image](https://github.com/user-attachments/assets/7596b4fd-18eb-4fbe-8d2d-debb80f7cd31)
+
+- Accesing the ticket interface as john assigning it to john, updating sla and adding notes on the proccess frfom call with the client.
