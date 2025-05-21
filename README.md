@@ -51,3 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/afa2ce97-b2ed-4c71-a17e-4648087d8ac5)
 
 - Setting ticket to resolved.
+
+![image](https://github.com/user-attachments/assets/dd9802b2-6d34-48d7-bec3-8d2b2c36a6d1)
+
+- Opening another Ticket as enduser.
