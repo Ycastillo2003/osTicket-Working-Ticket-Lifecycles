@@ -23,3 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+![image](https://github.com/user-attachments/assets/e3eaf097-3875-4ca7-bd17-8def4bd4513a)
+
+- Sending ticket and end user.
