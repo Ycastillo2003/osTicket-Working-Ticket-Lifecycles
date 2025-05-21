@@ -31,3 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/3e29a6ed-ad12-4a6c-8bbe-86d1143c6c93)
 
 - Accesing the ticket interface as agent (john Doe).
+
+![image](https://github.com/user-attachments/assets/f94ba020-1553-41ef-a708-66f6f16eae99)
+
+- Assigning sla plan, Help topic and a team to the ticket.
