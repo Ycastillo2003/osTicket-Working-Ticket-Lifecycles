@@ -27,3 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/e3eaf097-3875-4ca7-bd17-8def4bd4513a)
 
 - Sending ticket and end user.
+
+![image](https://github.com/user-attachments/assets/3e29a6ed-ad12-4a6c-8bbe-86d1143c6c93)
+
+- Accesing the ticket interface as agent (john Doe).
